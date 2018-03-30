@@ -54,7 +54,7 @@ Type: GET
 
 ## 接口逻辑流程图
 
-![](http://github.com/devOpenDocer/payWindowApi/raw/static/flow.png)
+![](https://github.com/devOpenDocer/payWindowApi/blob/master/static/flow.png)
 
 
 
