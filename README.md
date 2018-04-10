@@ -7,7 +7,7 @@
 
 Type: GET
 
-`https://pay.docer.com/payhome/#/?app_id=APP_ID&pay_sign=PAY_SIGN&active_pay_sign=ACTIVE_PAY_SIGN&ask_url=ASK_URL&notify_url=NOTIFY_URL&title=TITLE&descript=DESCRIPT`
+`https://pay.docer.wps.cn/payhome/#/?app_id=APP_ID&pay_sign=PAY_SIGN&active_pay_sign=ACTIVE_PAY_SIGN&ask_url=ASK_URL&notify_url=NOTIFY_URL&title=TITLE&descript=DESCRIPT`
 
 | 字段 | 描述 | 示例 | 默认值 | 是否必填 |
 | --- | --- | --- | --- | --- |
