@@ -56,5 +56,9 @@ Type: GET
 
 ![](https://github.com/devOpenDocer/payWindowApi/blob/master/static/flow.png)
 
+## 其它
+
+- [支付窗接口异常对照](./error.md)
+
 
 
